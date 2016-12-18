@@ -32,10 +32,10 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * **[Heroku](http://www.heroku.com)** - used for deployment
 * **[Knex.js](http://knexjs.org/)** - used as SQL query builder
 
-
+<hr>
 <br><br>
 <br>
-<br>
+
 
 # Sprintr Walkthrough
 
@@ -49,7 +49,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * Designate the productive websites you would like to track during the course of your Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the Sprint takes home the pot.
 <br><br><br><br>
-<hr>
+
 
 ##  Invite Your Friends
 
@@ -60,7 +60,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * Players can join existing games as long as they have the unique game code that Sprintr generates for each Sprint. 
 * If the Sprint is a cash game, players will be authenticated through Dwolla and their Dwolla account will be connected to the Sprint.
 <br><br><br><br>
-<hr>
+
 
 ##  Download the Chrome Extension
 
@@ -70,7 +70,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * Anyone who has downloaded the extension can log in right on the extension popup itself.
 * Players can view Sprintr game stats directly from the extension for any competition they're a part of. 
 <br><br><br><br>
-<hr>
+
 
 ##  Compete To Win
 
