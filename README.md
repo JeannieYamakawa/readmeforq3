@@ -59,7 +59,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 ## Other technologies used for this project:
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Heroku](http://www.heroku.com) - used for deployment
+* [Knex.js](http://knexjs.org/) - used as SQL query builder 
+* [Semantic-UI](http://semantic-ui.com/) - to help with page styling
 
