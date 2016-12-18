@@ -20,13 +20,7 @@ We taught ourselves AngularJS the week prior to beginning the project, and then 
 * The Google Chrome extension development environment was also entirely new for all three of us.
 * We wanted to render leaderboard data in charts, but connecting ChartJS to Angular was tricky. We ended up having to use a [3rd-party Angular chart library](https://jtblin.github.io/angular-chart.js/).
 
-what we would do differently
-
-
-situation
-task
-action
-result
+* Though website time is being tracked when the Chrome extension is enabled, whether or not a user is logged in, when the user clicks "View Web Portal" on the Chrome extension popup, it takes them to the web portal's login page, and the user has to enter credentials there as well. We wanted to have the web portal automatically render a user's personalized dashboard, but we discovered that the Chrome extension's local storage is a completely different local storage from the Chrome browser's local storage, thus creating a chasm in the flow of data. This was the one challenge we were not able to solve in the week allotted for our project, although we definitely learned a lot about navigating Google's [JavaScript APIs](https://developer.chrome.com/extensions/api_index). 
 
 
 *Hard work pays off. Let's sprint together.*
