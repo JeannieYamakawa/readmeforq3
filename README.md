@@ -1,7 +1,8 @@
 # Sprintr
 
 Welcome to Sprintr!
-[![https://gyazo.com/0e2c3885adb22d68f4587025e0446b82](https://i.gyazo.com/0e2c3885adb22d68f4587025e0446b82.png)](https://gyazo.com/0e2c3885adb22d68f4587025e0446b82)
+
+[![https://gyazo.com/073974a98cc05a25a606e41f044bfcd8](https://i.gyazo.com/073974a98cc05a25a606e41f044bfcd8.png)](https://gyazo.com/073974a98cc05a25a606e41f044bfcd8)
 
 Sprintr is Chrome browser extension and web app built by [Tim Chew](http://www.github.com/timothyrchew),  [Jeannie Yamakawa](http://www.github.com/JeannieYamakawa), and [Robert Varela](http://www.github.com/rvarela11) in the course of a week. 
 
