@@ -12,7 +12,9 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * AngularJS
 * PostgreSQL
 <hr>
+
 ### Challenges we faced:
+
 
 * This was our very first application built in Angular, and we learned a lot about the digest cycle and rendering dynamically-updated views in the process, as our Chrome extension's time-tracking functionality is working in the background at all times.
 
@@ -25,6 +27,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * We wanted to have the web portal automatically render a user's personalized dashboard when a user clicks "View Web Portal" button on the extension popup, but we discovered that the Chrome extension's local storage is a completely different local storage from the Chrome browser's local storage, thus creating a chasm in the saved data about who is logged in. This was the one challenge we were not able to solve in the week allotted for our project, although the user's data is viewable and current when he/she logs into the web app. We also definitely learned a lot about navigating Google's [JavaScript APIs](https://developer.chrome.com/extensions/api_index).
 <hr>
 ### Other technologies used for this project:
+
 
 * [Heroku](http://www.heroku.com) - used for deployment
 * [Knex.js](http://knexjs.org/) - used as SQL query builder 
