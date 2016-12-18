@@ -19,7 +19,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 * This was **our very first application built in Angular**, and we learned a lot about the digest cycle and rendering dynamically-updated views in the process, as our Chrome extension's time-tracking functionality is working in the background at all times.
 
-* We had lofty aspirations of connecting to players' PayPal accounts to be able to have a cash payout for winning. **We applied with PayPal to use its Payouts API twice**, but were rejected both times on the basis our app being categorized as "online gaming." PayPal's dev support phone representatives described as a "too risky a category" for PayPal to allow us use of the Payouts API. We then had to find an alternative to allow the transfer of money through our app, which we found and implemented successfully in **[Dwolla](https://developers.dwolla.com/)**.
+* We had lofty aspirations of connecting to players' PayPal accounts to be able to have a cash payout for winning. **We applied with [PayPal Developer](https://developer.paypal.com/) to use its Payouts API twice**, but were rejected both times on the basis our app being categorized as "online gaming." PayPal's dev support phone representatives described as a "too risky a category" for PayPal to allow us use of the Payouts API. We then had to find an alternative to allow the transfer of money through our app, which we found and implemented successfully in **[Dwolla](https://developers.dwolla.com/)**.
 
 * The **Google Chrome extension development environment** was entirely new for all three of us and took some getting used to.
 
