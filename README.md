@@ -41,7 +41,10 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 # Sprintr Walkthrough
 
 ###  Create a Sprint 
+<br><br>
+<br>
 [![https://gyazo.com/e2f7039b7438447e147089f4ddb1e750](https://i.gyazo.com/e2f7039b7438447e147089f4ddb1e750.png)](https://gyazo.com/e2f7039b7438447e147089f4ddb1e750)
+
 
 * Name your sprint.
 * Pick a start and end date for your sprint. 
@@ -52,6 +55,8 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <hr>
 
 ###  Invite Your Friends
+<br><br>
+<br>
 [![https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1](https://i.gyazo.com/86a0f43d50b78898099bdf34f8c04da1.png)](https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1)
 
 * Players can join existing games as long as they have the unique game code generated for each game. 
@@ -61,8 +66,8 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <hr>
 
 ###  Download the Chrome Extension
-
-
+<br><br>
+<br>
 [![http://imgur.com/a/F0bIP](http://i.imgur.com/9ZCH9e7.png)](http://i.imgur.com/9ZCH9e7.png)
 * You can log in right on the extension itself.
 * View game stats directly from the extension for any game you're a part of. 
@@ -72,6 +77,8 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <hr>
 
 ###  Compete To Win
+<br><br>
+<br>
 [![https://gyazo.com/52f9a7612392e7b07412934149ac3dbc](https://i.gyazo.com/52f9a7612392e7b07412934149ac3dbc.png)](https://gyazo.com/52f9a7612392e7b07412934149ac3dbc)
 
 
