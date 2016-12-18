@@ -42,19 +42,20 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 * Name your sprint.
 * Pick a start and end date for your sprint. 
-* Designate the productive websites you would like to track during the course of the Sprint. 
+* Designate the productive websites you would like to track during the course of your Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
 
 <br><br><br><br>
+<hr>
 
 ###  Invite Your Friends
 [![https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1](https://i.gyazo.com/86a0f43d50b78898099bdf34f8c04da1.png)](https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1)
 
-* Pick a start and end date for your sprint. 
-* Designate the productive websites you would like to track during the course of the Sprint. 
-* If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
+* Players can join existing games as long as they have the unique game code generated for each game. 
+* If the game is a cash game, players will be authenticated through Dwolla and their Dwolla account will be connected to the game.
 
 <br><br><br><br>
+<hr>
 
 ###  Download the Chrome Extension
 <img align="right"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
@@ -63,6 +64,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
 
 <br><br><br><br>
+<hr>
 
 ###  Compete To Win
 <img align="left"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
