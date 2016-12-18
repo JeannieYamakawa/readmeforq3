@@ -6,22 +6,22 @@ Sprintr is Chrome browser extension and web app built by [Tim Chew](http://www.g
 
 Our goal was to incentiveize productivity through creating a Chrome browser extension and web application that allows users to create "sprints," or competitions, that track friends' time spent on productive websites. 
 
-We taught ourselves AngularJS the week prior to beginning the project, and then built Sprintr on:
+We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginning the project, and then built Sprintr on:
 * Node.js
 * Express
 * AngularJS
 * PostgreSQL
 
 ### Challenges we faced:
-* This was our very first application built in Angular, and we learned a lot about the digest cycle and rendering dynamically updated views in the process, as our Chrome extension's tracking functionality is working in the background at all times.
+* This was our very first application built in Angular, and we learned a lot about the digest cycle and rendering dynamically-updated views in the process, as our Chrome extension's time-tracking functionality is working in the background at all times.
 
-* We had lofty aspirations of connecting to players' PayPal accounts to be able to have a cash payout for winning. We applied with PayPal to use its Payouts API twice, but were rejected both times on the basis our app being categorized as "online gaming." PayPal's dev support phone representatives described as a "too risky a category" for PayPal to allow us use of the Payouts API. We then had to find an alternative to allow the transfer of money through our app, which we found and implemented in [Dwolla](https://developers.dwolla.com/).
+* We had lofty aspirations of connecting to players' PayPal accounts to be able to have a cash payout for winning. We applied with PayPal to use its Payouts API twice, but were rejected both times on the basis our app being categorized as "online gaming." PayPal's dev support phone representatives described as a "too risky a category" for PayPal to allow us use of the Payouts API. We then had to find an alternative to allow the transfer of money through our app, which we found and implemented successfully in [Dwolla](https://developers.dwolla.com/).
 
-* The Google Chrome extension development environment was also entirely new for all three of us.
-* We wanted to render leaderboard data in charts, but connecting ChartJS to Angular was tricky. We ended up having to use a [3rd-party Angular chart library](https://jtblin.github.io/angular-chart.js/).
+* The Google Chrome extension development environment was entirely new for all three of us and took some getting used to.
 
-* Though website time is being tracked when the Chrome extension is enabled, whether or not a user is logged in, when the user clicks "View Web Portal" on the Chrome extension popup, it takes them to the web portal's login page, and the user has to enter credentials there as well. We wanted to have the web portal automatically render a user's personalized dashboard, but we discovered that the Chrome extension's local storage is a completely different local storage from the Chrome browser's local storage, thus creating a chasm in the flow of data. This was the one challenge we were not able to solve in the week allotted for our project, although we definitely learned a lot about navigating Google's [JavaScript APIs](https://developer.chrome.com/extensions/api_index). 
+* We wanted to render leaderboard sprint data in charts, but connecting the ChartJS library to Angular was tricky. We ended up having to use a [3rd-party Angular chart library](https://jtblin.github.io/angular-chart.js/).
 
+* We wanted to have the web portal automatically render a user's personalized dashboard when a user clicks "View Web Portal" button on the extension popup, but we discovered that the Chrome extension's local storage is a completely different local storage from the Chrome browser's local storage, thus creating a chasm in the saved data about who is logged in. This was the one challenge we were not able to solve in the week allotted for our project, although the user's data is viewable and current when he/she logs into the web app. We also definitely learned a lot about navigating Google's [JavaScript APIs](https://developer.chrome.com/extensions/api_index).
 
 *Hard work pays off. Let's sprint together.*
 
