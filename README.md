@@ -6,7 +6,7 @@
 
 **Sprintr is Chrome browser extension and web app built by [Tim Chew](http://www.github.com/timothyrchew),  [Jeannie Yamakawa](http://www.github.com/JeannieYamakawa), and [Robert Varela](http://www.github.com/rvarela11) in the course of a week.**
 
-Our goal was to incentiveize productivity through creating a Chrome browser extension and web application that allows users to create "sprints," or competitions, that track friends' time spent on productive websites. 
+*Our goal* was to incentiveize productivity through creating a Chrome browser extension and web application that allows users to create "Sprints," or competitions, that track friends' time spent on productive websites. 
 
 We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginning the project, and then built Sprintr on:
 * Node.js
@@ -89,5 +89,5 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * The game's leaderboard page shows individualized stats as a donut chart as well as a chart that displays players' game rankings and the countdown to the end of the game.
 
 
-Thanks for sprinting with us!
-<strong>*Hard work pays off. Let's sprint together.*</strong>
+Thanks for Sprinting with us!
+<strong>*Hard work pays off. Let's Sprint together.*</strong>
