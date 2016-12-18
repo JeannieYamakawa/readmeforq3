@@ -58,10 +58,13 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <hr>
 
 ###  Download the Chrome Extension
-<img align="right"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
-* Pick a start and end date for your sprint. 
-* Designate the productive websites you would like to track during the course of the Sprint. 
-* If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
+
+
+[![http://imgur.com/a/F0bIP](http://i.imgur.com/9ZCH9e7.png)](http://i.imgur.com/9ZCH9e7.png)
+<img align="right"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png"> 
+* You can log in right on the extension itself.
+* View game stats directly from the extension for any game you're a part of. 
+
 
 <br><br><br><br>
 <hr>
