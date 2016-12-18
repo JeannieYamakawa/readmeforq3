@@ -46,7 +46,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 ###  Invite Your Friends
-<img align="left"  height="500" width="700" src="https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1">
+<img align="left"  height="300" width="500" src="https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
