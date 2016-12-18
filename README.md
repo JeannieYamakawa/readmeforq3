@@ -40,6 +40,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 ###  Create a Sprint 
 [![https://gyazo.com/e2f7039b7438447e147089f4ddb1e750](https://i.gyazo.com/e2f7039b7438447e147089f4ddb1e750.png)](https://gyazo.com/e2f7039b7438447e147089f4ddb1e750)
+
 * Name your sprint.
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
@@ -48,7 +49,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 ###  Invite Your Friends
-<a href="https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1"><img src="https://i.gyazo.com/86a0f43d50b78898099bdf34f8c04da1.png" alt="https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1" width="700"/></a>
+[![https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1](https://i.gyazo.com/86a0f43d50b78898099bdf34f8c04da1.png)](https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1)
 
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
