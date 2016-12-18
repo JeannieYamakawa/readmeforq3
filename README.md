@@ -36,9 +36,9 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br>
 <br>
 
-# Sprintr Walkthrough
+# Sprintr Walkthrough:
 <br>
-##  Create a Sprint 
+##  1. Create a Sprint 
 
 <br>
 <br>
@@ -51,7 +51,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 
-##  Invite Your Friends
+##  2. Invite Your Friends
 
 <br>
 <br>
@@ -62,7 +62,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 
-##  Download the Chrome Extension
+##  3. Download the Chrome Extension
 
 <br><br>
 [![http://imgur.com/a/F0bIP](http://i.imgur.com/9ZCH9e7.png)](http://i.imgur.com/9ZCH9e7.png)
@@ -72,7 +72,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 
-##  Compete To Win
+##  4. Compete To Win
 
 <br><br>
 [![https://gyazo.com/52f9a7612392e7b07412934149ac3dbc](https://i.gyazo.com/52f9a7612392e7b07412934149ac3dbc.png)](https://gyazo.com/52f9a7612392e7b07412934149ac3dbc)
