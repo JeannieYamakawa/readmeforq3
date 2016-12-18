@@ -32,10 +32,9 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * **[Heroku](http://www.heroku.com)** - used for deployment
 * **[Knex.js](http://knexjs.org/)** - used as SQL query builder
 
-<hr>
+
 <br><br>
 <br>
-
 
 # Sprintr Walkthrough
 
