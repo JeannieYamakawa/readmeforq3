@@ -34,6 +34,9 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 
 <strong>*Hard work pays off. Let's sprint together.*</strong>
+<br><br>
+<br>
+<br>
 
 # Sprintr Walkthrough
 
@@ -69,7 +72,12 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <hr>
 
 ###  Compete To Win
-<img align="left"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
+[![https://gyazo.com/52f9a7612392e7b07412934149ac3dbc](https://i.gyazo.com/52f9a7612392e7b07412934149ac3dbc.png)](https://gyazo.com/52f9a7612392e7b07412934149ac3dbc)
+
+
+[![https://gyazo.com/0209b2a5918a5dfe3507c25594327bf8](https://i.gyazo.com/0209b2a5918a5dfe3507c25594327bf8.png)](https://gyazo.com/0209b2a5918a5dfe3507c25594327bf8)
+
+
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
