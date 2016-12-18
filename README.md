@@ -39,8 +39,6 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 # Sprintr Walkthrough
 
 ##  Create a Sprint 
-<br>
-<br>
 [![https://gyazo.com/e2f7039b7438447e147089f4ddb1e750](https://i.gyazo.com/e2f7039b7438447e147089f4ddb1e750.png)](https://gyazo.com/e2f7039b7438447e147089f4ddb1e750)
 <br>
 * Name your Sprint.
