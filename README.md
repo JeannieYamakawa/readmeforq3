@@ -38,7 +38,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 # Sprintr Walkthrough
 
-##  Create a Sprint 
+###  Create a Sprint 
 <img align="right"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
@@ -46,7 +46,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 <br><br><br><br>
 
-##  Invite Your Friends
+###  Invite Your Friends
 <img align="left"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
@@ -54,7 +54,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 <br><br><br><br>
 
-##  Download the Chrome Extension
+###  Download the Chrome Extension
 <img align="right"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
@@ -62,7 +62,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 <br><br><br><br>
 
-##  Compete To Win
+###  Compete To Win
 <img align="left"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
