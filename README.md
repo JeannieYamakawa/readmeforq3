@@ -13,6 +13,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * PostgreSQL
 
 ### Challenges we faced:
+<hr>
 * This was our very first application built in Angular, and we learned a lot about the digest cycle and rendering dynamically-updated views in the process, as our Chrome extension's time-tracking functionality is working in the background at all times.
 
 * We had lofty aspirations of connecting to players' PayPal accounts to be able to have a cash payout for winning. We applied with PayPal to use its Payouts API twice, but were rejected both times on the basis our app being categorized as "online gaming." PayPal's dev support phone representatives described as a "too risky a category" for PayPal to allow us use of the Payouts API. We then had to find an alternative to allow the transfer of money through our app, which we found and implemented successfully in [Dwolla](https://developers.dwolla.com/).
@@ -22,6 +23,13 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * We wanted to render leaderboard sprint data in charts, but connecting the ChartJS library to Angular was tricky. We ended up having to use a [3rd-party Angular chart library](https://jtblin.github.io/angular-chart.js/).
 
 * We wanted to have the web portal automatically render a user's personalized dashboard when a user clicks "View Web Portal" button on the extension popup, but we discovered that the Chrome extension's local storage is a completely different local storage from the Chrome browser's local storage, thus creating a chasm in the saved data about who is logged in. This was the one challenge we were not able to solve in the week allotted for our project, although the user's data is viewable and current when he/she logs into the web app. We also definitely learned a lot about navigating Google's [JavaScript APIs](https://developer.chrome.com/extensions/api_index).
+
+### Other technologies used for this project:
+<hr>
+* [Heroku](http://www.heroku.com) - used for deployment
+* [Knex.js](http://knexjs.org/) - used as SQL query builder 
+* [Semantic-UI](http://semantic-ui.com/) - to help with page styling
+
 
 *Hard work pays off. Let's sprint together.*
 
@@ -57,9 +65,4 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * Designate the productive websites you would like to track during the course of the Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
 
-## Other technologies used for this project:
-
-* [Heroku](http://www.heroku.com) - used for deployment
-* [Knex.js](http://knexjs.org/) - used as SQL query builder 
-* [Semantic-UI](http://semantic-ui.com/) - to help with page styling
 
