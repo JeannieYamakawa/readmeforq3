@@ -39,7 +39,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 # Sprintr Walkthrough
 
-###  Create a Sprint 
+##  Create a Sprint 
 <br><br>
 <br>
 [![https://gyazo.com/e2f7039b7438447e147089f4ddb1e750](https://i.gyazo.com/e2f7039b7438447e147089f4ddb1e750.png)](https://gyazo.com/e2f7039b7438447e147089f4ddb1e750)
@@ -53,7 +53,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 <hr>
 
-###  Invite Your Friends
+##  Invite Your Friends
 <br><br>
 <br>
 [![https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1](https://i.gyazo.com/86a0f43d50b78898099bdf34f8c04da1.png)](https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1)
@@ -64,7 +64,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 <hr>
 
-###  Download the Chrome Extension
+##  Download the Chrome Extension
 <br><br>
 <br>
 [![http://imgur.com/a/F0bIP](http://i.imgur.com/9ZCH9e7.png)](http://i.imgur.com/9ZCH9e7.png)
@@ -76,17 +76,16 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 <hr>
 
-###  Compete To Win
+##  Compete To Win
 <br><br>
 <br>
 [![https://gyazo.com/52f9a7612392e7b07412934149ac3dbc](https://i.gyazo.com/52f9a7612392e7b07412934149ac3dbc.png)](https://gyazo.com/52f9a7612392e7b07412934149ac3dbc)
 
-
-[![https://gyazo.com/0209b2a5918a5dfe3507c25594327bf8](https://i.gyazo.com/0209b2a5918a5dfe3507c25594327bf8.png)](https://gyazo.com/0209b2a5918a5dfe3507c25594327bf8)
-
-
 * Sprintr's web portal generates a more detailed view for all games a player is a part of.
 * The player's dashboard page lists stats for all current games.
+<br>
+[![https://gyazo.com/0209b2a5918a5dfe3507c25594327bf8](https://i.gyazo.com/0209b2a5918a5dfe3507c25594327bf8.png)](https://gyazo.com/0209b2a5918a5dfe3507c25594327bf8)
+
 * The game's leaderboard page shows individualized stats as a donut chart as well as a chart that displays players' game rankings and the countdown to the end of the game.
 
 
