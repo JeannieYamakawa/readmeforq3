@@ -50,7 +50,9 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the Sprint takes home the pot.
 <br><br><br><br>
 <hr>
+
 ##  Invite Your Friends
+
 <br>
 <br>
 [![https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1](https://i.gyazo.com/86a0f43d50b78898099bdf34f8c04da1.png)](https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1)
@@ -59,7 +61,9 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * If the Sprint is a cash game, players will be authenticated through Dwolla and their Dwolla account will be connected to the Sprint.
 <br><br><br><br>
 <hr>
+
 ##  Download the Chrome Extension
+
 <br><br>
 [![http://imgur.com/a/F0bIP](http://i.imgur.com/9ZCH9e7.png)](http://i.imgur.com/9ZCH9e7.png)
 <br>
@@ -67,7 +71,9 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 * Players can view Sprintr game stats directly from the extension for any competition they're a part of. 
 <br><br><br><br>
 <hr>
+
 ##  Compete To Win
+
 <br><br>
 [![https://gyazo.com/52f9a7612392e7b07412934149ac3dbc](https://i.gyazo.com/52f9a7612392e7b07412934149ac3dbc.png)](https://gyazo.com/52f9a7612392e7b07412934149ac3dbc)
 <br>
