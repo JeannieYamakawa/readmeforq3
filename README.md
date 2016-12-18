@@ -37,7 +37,8 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 # Sprintr Walkthrough
 
 ###  Create a Sprint 
-<img align="right"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
+<img align="right"  height="500" width="700" src="https://gyazo.com/e2f7039b7438447e147089f4ddb1e750">
+* Name your sprint.
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
@@ -45,7 +46,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 ###  Invite Your Friends
-<img align="left"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
+<img align="left"  height="500" width="700" src="https://gyazo.com/86a0f43d50b78898099bdf34f8c04da1">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
@@ -53,7 +54,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 ###  Download the Chrome Extension
-<img align="right"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
+<img align="right"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
@@ -61,7 +62,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 <br><br><br><br>
 
 ###  Compete To Win
-<img align="left"  height="300" width="500" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
+<img align="left"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png">
 * Pick a start and end date for your sprint. 
 * Designate the productive websites you would like to track during the course of the Sprint. 
 * If you would like to up the stakes, designate your Sprint as a cash game. This will require all players to contribute to a cash pot (through Dwolla). The winner of the sprint takes home the pot.
