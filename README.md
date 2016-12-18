@@ -61,7 +61,6 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 
 
 [![http://imgur.com/a/F0bIP](http://i.imgur.com/9ZCH9e7.png)](http://i.imgur.com/9ZCH9e7.png)
-<img align="right"  height="500" width="700" src="https://i.gyazo.com/666d37af0d208915f33386ee47e80fb5.png"> 
 * You can log in right on the extension itself.
 * View game stats directly from the extension for any game you're a part of. 
 
