@@ -30,7 +30,7 @@ We taught ourselves [AngularJS](https://angularjs.org/) the week prior to beginn
 ### Other technologies used for this project:
 
 * [Heroku](http://www.heroku.com) - used for deployment
-* [Knex.js](http://knexjs.org/) - used as SQL query builder 
+* [Knex.js](http://knexjs.org/) - used as SQL query builder
 * [Semantic-UI](http://semantic-ui.com/) - to help with page styling
 
 
